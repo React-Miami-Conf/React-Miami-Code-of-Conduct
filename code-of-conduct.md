@@ -2,7 +2,7 @@
 
 ## 1. Conference Code of Conduct
 
-1.1 All attendees, speakers, sponsors, volunteers and third parties relations who establish a contractual relationship with React Conference Miami are required to agree with the following code of conduct. React Miami will enforce this code throughout the event. We expect cooperation from everyone involved with React.js Conference Miami to help ensure a safe environment for everybody.
+1.1 All attendees, speakers, sponsors, volunteers and third parties relations who establish a contractual relationship with React Miami Conference are required to agree with the following code of conduct. React Miami will enforce this code throughout the event. We expect cooperation from everyone involved with React Miami Conference to help ensure a safe environment for everybody.
 
 ## 2. React Miami Anti-Discrimination & Anti-Harassment
 
@@ -25,7 +25,7 @@
 
 ## 3. Anti-Racism
 
-3.1 Emphasizing the importance of our standpoint against Racism and having mutual respect towards the equality of any of our attendees, speakers and staff regardless race, physical appearance, ethnicity, religion (or lack thereof), gender, gender identity and expression, age, sexual orientation, disability, body size, or technology choices. We do not tolerate racism of conference participants, speakers, staff or third parties who establish a contractual relationship with React Conference Miami in any form.
+3.1 Emphasizing the importance of our standpoint against Racism and having mutual respect towards the equality of any of our attendees, speakers and staff regardless race, physical appearance, ethnicity, religion (or lack thereof), gender, gender identity and expression, age, sexual orientation, disability, body size, or technology choices. We do not tolerate racism of conference participants, speakers, staff or third parties who establish a contractual relationship with React Miami Conference in any form.
 
 ## 4. Enforcement
 
